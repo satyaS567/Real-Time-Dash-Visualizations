@@ -1,7 +1,7 @@
 How to Run the Project Follow the steps below to set up and run the User Spending Dashboard project locally on your machine.
 
 Clone the Repository First, clone the repository to your local machine using the following command:
-bash Copy code git clone https://github.com/your-username/your-repo-name.git Navigate to the project directory:
+bash Copy code git clone https://github.com/satyaS567/Real-Time-Dash-Visualizations Navigate to the project directory:
 
 bash Copy code cd your-repo-name 2. Set Up a Virtual Environment (Optional but Recommended) It's a good practice to create a virtual environment to manage your project dependencies.
 
