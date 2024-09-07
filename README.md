@@ -22,5 +22,11 @@ bash Copy code python app.py 6. Open the Dashboard in Your Browser Once the app 
 
 Dash is running on http://127.0.0.1:8050/ Open your web browser and navigate to this URL:
 
+![pic1](https://github.com/user-attachments/assets/3a06cf78-f1f0-4e62-a341-207eb40e55a3)
+![pic2](https://github.com/user-attachments/assets/a9b5700a-8df1-4b74-bc1a-48cc75a09227)
+![pic3](https://github.com/user-attachments/assets/8dac293c-898a-4f51-89dc-cd8732fdf220)
+![pic4](https://github.com/user-attachments/assets/2e8a0160-8489-49ac-a012-75cd5318bf78)
+![pic5](https://github.com/user-attachments/assets/0f625f97-1252-43c0-8e71-dd9521c4b05b)
+
 Modify the Application (Optional) You can modify the following areas of the application:
 Database Queries: Update or change SQL queries in app.py to match your specific data or analysis needs. Visualizations: Customize the Plotly visualizations by editing the Dash components in the layout section. UI/Styling: Use Bootstrap components to change the layout and look of the dashboard. That's it! You should now be able to run and interact with the User Spending Dashboard.
